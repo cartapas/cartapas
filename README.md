@@ -11,7 +11,8 @@ I'm currently performing an SRE role at [Wizeline](https://www.wizeline.com) and
 |![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=plastic)|![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=plastic)|![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=plastic)|![Puppet Badge](https://img.shields.io/badge/Puppet-FFAE1A?logo=puppet&logoColor=fff&style=plastic)|
 |![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=plastic)|![GitLab Badge](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff&style=plastic)||
 
-
+## Find me at
+[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=plastic)](https://www.linkedin.com/in/carlos-tapasco)
 <!--
 
 Find the badges at https://badges.pages.dev/
