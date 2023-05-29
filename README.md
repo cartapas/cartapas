@@ -13,6 +13,10 @@ I'm currently performing an SRE role at [Wizeline](https://www.wizeline.com) and
 
 
 <!--
+
+Find the badges at https://badges.pages.dev/
+Ideas to make the profile beauty https://github.com/rzashakeri/beautify-github-profile
+
 **cartapas/cartapas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
