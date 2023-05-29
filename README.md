@@ -1,4 +1,6 @@
-### Hi there 👋
+### About me 👋
+
+Interested in SRE role and DevOps culture with AWS Services and IAC with Terraform.
 
 <!--
 **cartapas/cartapas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
